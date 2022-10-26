@@ -6,6 +6,7 @@
 - Did basic setup for About Me Project
 
 ## Lab 03
+- Added my Top Ten to the index, and put a limit on the number of guesses for the guessing game.
 
 ## Lab 04
 
