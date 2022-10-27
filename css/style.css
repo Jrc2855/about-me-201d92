@@ -3,11 +3,9 @@ body {
 }
 
 h1 {
-  font-size: 15vw;
+  font-size: 7vw;
   color:white;
   margin:5%;
-
-
 }
 
 p{
@@ -15,14 +13,16 @@ p{
 }
 
 li {
-  color:beige;
-  margin:5%;
-  font-size:5vw;
+  color:white;
+  margin-left:5%;
+  font-size:2vw;
+  list-style:circle;
 }
 
 h2 {
   color:white;
-  font-size:10vw;
-  margin:5%;
-
+  font-size:5vw;
+  margin-left:5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
