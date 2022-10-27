@@ -10,3 +10,5 @@
 
 ## Lab 04
 
+Navigator: John Chavez
+Driver: Yen Xiong Yuan
