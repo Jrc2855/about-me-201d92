@@ -1,11 +1,5 @@
 'use strict';
 
-// console.log('hello world');
-
-// let visitorName = prompt('What is your name?');
-
-// alert(`Welcome to my site ${visitorName}! Please answer yes or no to the following questions.`);
-
 let greeting = prompt('What is your name?');
 if (greeting != null) {
   document.getElementById('greeting').innerHTML = 
@@ -105,6 +99,5 @@ for(let x = 0; x < questionSevenGuesses; x++){
   }
 }
 };
-seventhQuestion ();
 
-// I wasn't able to figure out how to get the prompt to accept non case sensitive replies. 
+
